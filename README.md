@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an Android mobile application designed to help users track their weight, set fitness goals, and monitor progress over time. The app includes user authentication, data storage, and notification features.
+This project is an Android mobile application designed to help users track their weight, set fitness goals, and monitor progress over time. The app includes user authentication, data storage, and notification features. This application demonstrates full-stack mobile development, including UI design, database management, and backend logic implementation.
 
 ## Features
 
