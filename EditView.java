@@ -23,7 +23,7 @@ import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class edit_view extends AppCompatActivity {
+public class EditView extends AppCompatActivity {
 
     WeightDB _weight;
     UserModel _user;
