@@ -22,7 +22,7 @@ import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class main_screen extends AppCompatActivity {
+public class MainScreen extends AppCompatActivity {
 
     WeightDB _weight;
     UserModel _user;
