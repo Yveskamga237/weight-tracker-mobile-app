@@ -12,7 +12,7 @@ import android.widget.EditText;
 import java.util.Calendar;
 
 
-public class weight_entry extends AppCompatActivity {
+public class WeightEntry extends AppCompatActivity
 
     protected EditText dateEntry;
     protected EditText weightEntry;
